@@ -34,6 +34,11 @@ Check out the example datasets in this repo.
 - [astrology-dataset.jsonl](astrology-dataset.jsonl)
 - more soon...
 
+## Getting Started
+
+- https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples
+- https://brev.dev/blog/fine-tuning-llama-2
+
 ## Prizes 🏆
 
 We've got awards for the weirdest, most practical, and most creative applications of fine-tuning. But remember, the real prize is the ~~friends~~ finetunes we made along the way!
@@ -43,8 +48,8 @@ We've got awards for the weirdest, most practical, and most creative application
 - **Hosted by**: brev.dev, ai.engineer, celo.org - Contact [Nader](https://x.com/naderlikeladder) or [Swyx](https://x.com/swyx).
 - **Special Thanks**: Amplify & Celo for being awesome sponsors
 
-![Image 2](amplify.png)
-![Image 1](celo.png)
+![Image 2](assets/samplify.png)
+![Image 1](assets/celo.png)
 
 ## Code of Conduct 📜
 
