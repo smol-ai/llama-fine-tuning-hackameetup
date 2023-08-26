@@ -32,7 +32,7 @@ Think of this as a hackathon and a meetup combined. Learn, hack, and win!
 Check out the example datasets in this repo.
 
 - [astrology-dataset.jsonl](astrology-dataset.jsonl)
-- more soon...
+- [socialmediamanager-dataset.jsonl](socialmediamanager-dataset.jsonl)
 
 ## Getting Started
 
