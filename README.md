@@ -68,6 +68,12 @@ Check out the example datasets in this repo.
 - [socialmediamanager-dataset.jsonl](socialmediamanager-dataset.jsonl)
 - please PR more!
 
+### Public Datasets (still need to be formatted)
+- [Open Subtitles](https://www.opensubtitles.com/en)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+
 ## Getting Started
 
 - https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples
