@@ -72,6 +72,7 @@ Check out the example datasets in this repo.
 
 - https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples
 - https://brev.dev/blog/fine-tuning-llama-2
+- https://replicate.com/blog/fine-tune-llama-2
 - https://huggingface.co/docs/transformers/training
 - (Please PR more!)
 
