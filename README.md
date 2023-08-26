@@ -8,16 +8,17 @@ Think of this as a hackathon and a meetup combined. Learn, hack, and win!
 
 ## Featuring
 
-| Speaker          | Affiliation             |
-| ---------------- | ----------------------- |
-| Harrison Chase   | CEO, Langchain          |
-| Robert Nishihara | CEO, Anyscale           |
-| Ben Firshman     | CEO, Replicate          |
-| Will Bryk        | CEO, Metaphor           |
-| Michael Royzen   | CEO, Phind              |
-| Mark Huang       | CEO, Gradient AI        |
-| Yuze Ma          | Engineer @ Lepton AI    |
-| Sam L'Huillier   | Finetune God @ Brev.dev |
+| Speaker           | Affiliation             |
+| ----------------- | ----------------------- |
+| Harrison Chase    | CEO, Langchain          |
+| Robert Nishihara  | CEO, Anyscale           |
+| Ben Firshman      | CEO, Replicate          |
+| Will Bryk         | CEO, Metaphor           |
+| Michael Royzen    | CEO, Phind              |
+| Mark Huang        | CEO, Gradient AI        |
+| Yuze Ma           | Engineer @ Lepton AI    |
+| Dmytro Dzhulgakov | CTO, Fireworks AI       |
+| Sam L'Huillier    | Finetune God @ Brev.dev |
 
 ## Schedule 🗓
 
@@ -72,6 +73,7 @@ Check out the example datasets in this repo.
 
 - https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples
 - https://brev.dev/blog/fine-tuning-llama-2
+- https://github.com/fw-ai/cookbook
 - (Please PR more!)
 
 ## Prizes 🏆
