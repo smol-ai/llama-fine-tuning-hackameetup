@@ -1,6 +1,6 @@
 # Fine-Tuning Llama Hackameetup 🦙
 
-Welcome to the most kickass event for all you AI aficionados out there: **The Fine-Tuning Llama Hackathon!** Llama 2 has gone open-ish source and CodeLlama is just around the corner. But we need _you_ to finesse it further. Bring your peculiar data sets and let's build some killer chains and agents.
+Welcome to the most kickass event for all you Actually Open AI aficionados out there: **The Fine-Tuning Llama Hackathon!** Llama 2 has gone open-ish source and CodeLlama is just around the corner. But we need _you_ to finesse it further. Bring your peculiar data sets and let's build some killer chains and agents.
 
 ## Hackameetup?
 
