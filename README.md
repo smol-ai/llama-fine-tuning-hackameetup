@@ -27,17 +27,52 @@ Think of this as a hackathon and a meetup combined. Learn, hack, and win!
 - **1:00pm**: Hacking Begins
 - **4:00pm**: Presentations & Awards
 
+## Prize Tracks:
+
+**🎨 Most Creative**
+
+**💸 Most Expensive**
+
+**🤝 Most Practical**
+
+No cash prizes, just bragging rights
+
+## Finetune Ideas:
+
+- Structured Data
+    - YAML
+    - JSON
+    - Markdown tables
+- Code
+    - finetune for Python, JS, React, Other code languages
+    - finetune for JS→ TypeScript, Python → typehints?
+    - finetune CodeLlama
+- Text Generation
+    - Creative writing
+    - Style Replicas - imitate a particular person’s style
+- Other forms of creative output
+    - drawing ascii art - [pator](https://patorjk.com/software/taag/#p=display&f=Cosmike&t=Hi%20SWYX)
+    - poetry? rap? Music?
+    - finetune
+- Newer Techniques
+    - Gorilla reproduction
+    - RETRO reproduction
+    - [SequenceMatch](https://news.ycombinator.com/item?id=36425375) reproduction
+    - CodeLlama reproduction
+
 ## Example Datasets 📊
 
 Check out the example datasets in this repo.
 
 - [astrology-dataset.jsonl](astrology-dataset.jsonl)
 - [socialmediamanager-dataset.jsonl](socialmediamanager-dataset.jsonl)
+- please PR more!
 
 ## Getting Started
 
 - https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples
 - https://brev.dev/blog/fine-tuning-llama-2
+- (Please PR more!)
 
 ## Prizes 🏆
 
