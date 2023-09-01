@@ -74,7 +74,8 @@ Check out the example datasets in this repo.
 - https://brev.dev/blog/fine-tuning-llama-2
 - https://replicate.com/blog/fine-tune-llama-2
 - https://huggingface.co/docs/transformers/training
-- [fine-tune LLaMA 2 with qlora](https://colab.research.google.com/drive/1Zmaceu65d7w4Tcd-cfnZRb6k_Tcv2b8g?usp=sharing) via [matt shumer](https://twitter.com/mattshumer_/status/1688958387973734400)
+- Talk: WandB on [Training and Fine-tuning LLMs](https://youtu.be/2QRlvKSzyVw?si=pwAZ78-G1QIKDjYW)
+- Notebook: [fine-tune LLaMA 2 with qlora](https://colab.research.google.com/drive/1Zmaceu65d7w4Tcd-cfnZRb6k_Tcv2b8g?usp=sharing) via [matt shumer](https://twitter.com/mattshumer_/status/1688958387973734400)
 - (Please PR more!)
 
 ## Prizes 🏆
